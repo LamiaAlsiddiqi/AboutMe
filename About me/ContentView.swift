@@ -24,6 +24,10 @@ struct ContentView: View {
                     .font(.title)
                     .fontWeight(.bold)
                     .foregroundColor(Color.white)
+                Text("Lamia")
+                    .font(.title)
+                    .fontWeight(.bold)
+                    .foregroundColor(Color.white)
                 
                 Text("A Speech and Communication Therapist. Photographer, inventor, passionate in art and creativity, an admirer of horseback riding.")
                     .font(.body)
