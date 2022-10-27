@@ -14,6 +14,7 @@ struct ContentView: View {
             Color.black
                 .ignoresSafeArea()
             //uuu
+            //uu
             VStack{
                 Image("horse")
                     .resizable()
