@@ -13,8 +13,7 @@ struct ContentView: View {
         ZStack {
             Color.black
                 .ignoresSafeArea()
-            //uuu
-            //uu
+           
             VStack{
                 Image("horse")
                     .resizable()
@@ -27,7 +26,7 @@ struct ContentView: View {
                 Text("Lamia")
                     .font(.title)
                     .fontWeight(.bold)
-                    .foregroundColor(Color.white)
+                  
                 
                 Text("A Speech and Communication Therapist. Photographer, inventor, passionate in art and creativity, an admirer of horseback riding.")
                     .font(.body)
